@@ -14,7 +14,7 @@ If you love the repo, please :star2: it!  :heart:
 
 ## Roll Now! with Repl.it (No Installation Required)
 
-[![Run on Repl.it](https://repl.it/badge/github/KFChinese/Hang-Emoji-with-Python)](https://Hang-Emoji-with-Python.kfchinese.repl.run)
+[![Run on Repl.it](https://repl.it/badge/github/KFChinese/Hang-Emoji-with-Python)](https://Dice-Roll.kfchinese.repl.run)
 > If the Console is stuck on "Connecting...", Please refresh the page. This is an ongoing issue with Repl.it.
 
 
